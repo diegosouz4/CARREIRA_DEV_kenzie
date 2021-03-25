@@ -1,6 +1,6 @@
 # CARREIRA_DEV_kenzie
 
-O projeto
+<h2>O projeto<h2>
 Estrutura de pastas
 kenzie-academy_startnasuacarreira.png
 README.md
