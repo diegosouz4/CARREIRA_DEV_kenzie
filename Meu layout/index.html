@@ -12,163 +12,171 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
-    <header>
+    <input type="checkbox" id="btn-darkmode">
+    
+    <div class="dark-mode"> 
 
-        <div class="container">
+        <header>
+            
+            <div class="container">
+                <label for="btn-darkmode">
+                    <span></span>
+                </label>
+                
+                <div class="row">
+                    
+                    <div class="col col__left">
+                        
+                        <figure>
+                            <img src="./assets/img/diego-souza.png" alt="Diego Souza">
+                            <figcaption class="hidden">Diego Souza</figcaption>
+                        </figure>
+                    </div>
 
-            <div class="row">
+                    <div class="col col__right">
 
-                <div class="col col__left">
-
-                    <figure>
-                        <img src="./assets/img/diego-souza.png" alt="Diego Souza">
-                        <figcaption class="hidden">Diego Souza</figcaption>
-                    </figure>
+                        <h1>Diego Souza</h1>
+                        <p>Estudando para ser um Front-end.</p>
+                        <ul>
+                            <li><a href="mailto:diego@dsouza.com.br">diego@dsouza.com.br</a></li>
+                            <li><a href="tel:5521999999999">(21) 99999-9999</a></li>
+                            <li><a href="#">Rio de Janeiro / RJ</a></li>
+                        </ul>
+                    </div>
                 </div>
+            </div>
+        </header>
 
-                <div class="col col__right">
+        <main>
+            <div class="container">
+                <article>
+                    <h2>Sobre mim.</h2>
+                    <div class="row">
 
-                    <h1>Diego Souza</h1>
-                    <p>Estudando para ser um Front-end.</p>
-                    <ul>
+                        <div class="col col-2">
+
+                            <section>
+                                <h3>Perfil profissional</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda quibusdam maxime facilis cumque similique officia fugiat, obcaecati doloribus perspiciatis libero earum sequi eos, ratione sapiente.</p>
+                            </section>
+                        </div>
+
+                        <div class="col">
+                            <section>
+                                <h3>Especialidades</h3>
+                                <ul>
+                                    <li>HTML</li>
+                                    <li>CSS | SASS</li>
+                                    <li>Javascript</li>
+                                    <li>Git</li>
+                                </ul>
+                            </section>
+                        </div>
+
+                        <div class="col">
+                            <section>
+                                <h3>Cursos</h3>
+                                <ul>
+                                    <li>HTML5 - Alura</li>
+                                    <li>CSS3 - Alura</li>
+                                    <li>Javascript - Alura</li>
+                                    <li>Git - Alura</li>
+                                </ul>
+                            </section>
+                        </div>
+                    </div>
+                </article>
+
+                <article>
+                    <h2>formação e Experiências</h2>
+
+                    <div class="row">
+                        <div class="col col-6">
+                            <section>
+                                <h3>Experiências</h3>
+
+                                <ul>
+                                    <li>
+                                        <h4>Designer gráfico</h4>
+                                        <strong>Freelancer</strong>
+                                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                    </li>
+                                    <li>
+                                        <h4>Estágio webdesign</h4>
+                                        <strong>Nome da empresa: Busca carioca</strong>
+                                        <p>De Dez 2014 - até Mar 2015.</p>
+                                    </li>
+                                    <li>
+                                        <h4>Webdesigner</h4>
+                                        <strong>Nome da empresa: Poeme-se</strong>
+                                        <p>De Jun 2018 - até o momento.</p>
+                                    </li>
+                                </ul>
+                            </section>
+                        </div>
+
+                        <div class="col col-6">
+                            <section>
+                                <h3>Formações</h3>
+
+                                <ul>
+                                    <li>
+                                        <h4>Formação em Front-end <strong>cursando.</strong></h4>
+                                        <p>Alura</p>
+                                    </li>
+                                    <li>
+                                        <h4>Iniciante em Programação <strong>cursando.</strong></h4>
+                                        <p>Alura</p>
+                                    </li>
+                                </ul>
+                            </section>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </main>
+
+        <footer>
+            <div class="container">
+                <nav>
+                    <ul class="social-bar">
+                        <li>
+                            <a href="#">
+                                <img src="./assets/img/instagram.svg" alt="Instagram">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="./assets/img/github.svg" alt="Instagram">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="./assets/img/youtube.svg" alt="Instagram">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="./assets/img/facebook.svg" alt="Instagram">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="./assets/img/linkedin.svg" alt="Instagram">
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <nav>
+                    <ul class="contato-info">
                         <li><a href="mailto:diego@dsouza.com.br">diego@dsouza.com.br</a></li>
                         <li><a href="tel:5521999999999">(21) 99999-9999</a></li>
                         <li><a href="#">Rio de Janeiro / RJ</a></li>
                     </ul>
-                </div>
+                </nav>
             </div>
-        </div>
-    </header>
-
-    <main>
-        <div class="container">
-            <article>
-                <h2>Sobre mim.</h2>
-                <div class="row">
-
-                    <div class="col col-2">
-
-                        <section>
-                            <h3>Perfil profissional</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda quibusdam maxime facilis cumque similique officia fugiat, obcaecati doloribus perspiciatis libero earum sequi eos, ratione sapiente.</p>
-                        </section>
-                    </div>
-
-                    <div class="col">
-                        <section>
-                            <h3>Especialidades</h3>
-                            <ul>
-                                <li>HTML</li>
-                                <li>CSS | SASS</li>
-                                <li>Javascript</li>
-                                <li>Git</li>
-                            </ul>
-                        </section>
-                    </div>
-
-                    <div class="col">
-                        <section>
-                            <h3>Cursos</h3>
-                            <ul>
-                                <li>HTML5 - Alura</li>
-                                <li>CSS3 - Alura</li>
-                                <li>Javascript - Alura</li>
-                                <li>Git - Alura</li>
-                            </ul>
-                        </section>
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <h2>formação e Experiências</h2>
-
-                <div class="row">
-                    <div class="col col-6">
-                        <section>
-                            <h3>Experiências</h3>
-
-                            <ul>
-                                <li>
-                                    <h4>Designer gráfico</h4>
-                                    <strong>Freelancer</strong>
-                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                </li>
-                                <li>
-                                    <h4>Estágio webdesign</h4>
-                                    <strong>Nome da empresa: Busca carioca</strong>
-                                    <p>De Dez 2014 - até Mar 2015.</p>
-                                </li>
-                                <li>
-                                    <h4>Webdesigner</h4>
-                                    <strong>Nome da empresa: Poeme-se</strong>
-                                    <p>De Jun 2018 - até o momento.</p>
-                                </li>
-                            </ul>
-                        </section>
-                    </div>
-
-                    <div class="col col-6">
-                        <section>
-                            <h3>Formações</h3>
-
-                            <ul>
-                                <li>
-                                    <h4>Formação em Front-end <strong>cursando.</strong></h4>
-                                    <p>Alura</p>
-                                </li>
-                                <li>
-                                    <h4>Iniciante em Programação <strong>cursando.</strong></h4>
-                                    <p>Alura</p>
-                                </li>
-                            </ul>
-                        </section>
-                    </div>
-                </div>
-            </article>
-        </div>
-    </main>
-
-    <footer>
-        <div class="container">
-            <nav>
-                <ul class="social-bar">
-                    <li>
-                        <a href="#">
-                            <img src="./assets/img/instagram.svg" alt="Instagram">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="./assets/img/github.svg" alt="Instagram">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="./assets/img/youtube.svg" alt="Instagram">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="./assets/img/facebook.svg" alt="Instagram">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="./assets/img/linkedin.svg" alt="Instagram">
-                        </a>
-                    </li>
-                </ul>
-            </nav>
-
-            <nav>
-                <ul class="contato-info">
-                    <li><a href="mailto:diego@dsouza.com.br">diego@dsouza.com.br</a></li>
-                    <li><a href="tel:5521999999999">(21) 99999-9999</a></li>
-                    <li><a href="#">Rio de Janeiro / RJ</a></li>
-                </ul>
-            </nav>
-        </div>
-    </footer>
+        </footer>
+    </div>
 </body>
 </html>

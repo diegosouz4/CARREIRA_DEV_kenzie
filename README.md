@@ -35,6 +35,15 @@ Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
 
 ### O layout
 
+Layout final feito por mim.
+
+![Versão final Desktop](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Desktop.png)
+![Versão final Desktop: DarkMode](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Desktop%20Darkmode.pn
+![Versão final Mobile](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Mobile.png)
+![Versão final Mobile: DarkMode](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Mobile%20Darkmode.png)
+
+Layout final feito durante as aulas.
+
 ![Versão final Desktop](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Desktop.png)
 ![Versão final Desktop: DarkMode](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Desktop%20Darkmode.png)
 ![Versão final Mobile](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Mobile.png)
