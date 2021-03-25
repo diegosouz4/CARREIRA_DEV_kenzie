@@ -37,7 +37,7 @@ Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
 
 ![Versão final Desktop]()
 ![Versão final Desktop: DarkMode]()
-![Versão final Mobile]()
+![Versão final Mobile](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Mobile.png)
 ![Versão final Mobile: DarkMode]()
 
 [Desktop](./kenzie-academy_startnasuacarreira.png)
