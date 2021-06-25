@@ -1,54 +1,29 @@
-# Start Sua Carreira - Portfólio
+# Projetos desenvolvidos durantes os cursos gratuitos da Kenzie 
 
-Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
+## Projeto - Start Sua Carreira Portfólio
 
-## O projeto
+A duração do curso foi de 5 dias e nele tivemos conceitos básicos de HTML e CSS. O objetivo final era a criação de um currículo/portfólio em uma landing page.
 
-### Estrutura de pastas
+### Tecnologias
 
-- kenzie-academy_startnasuacarreira.png
-- README.md
-- dia1/
-  - index.html
-  - assets/
-    - img/
-      - facebook-app-symbol.svg
-      - github-big-logo.svg
-      - hudson.png
-      - instagram.svg
-      - linkedin.svg
-      - youtube.svg
-    - css/
-      - style.css
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Especificações
+### Layout
 
-- Fonte utilizada: `'Open Sans', sans-serif;`
-- Cores utilizadas:
-  - Azul escuro: `#04133d`;
-  - Azul: `#0a78fa`;
-  - Azul claro: `#45dbfc`;
-  - Azul mais claro: `#d4e9ff`;
-  - Branco: `#fff`;
-  - Cinza escuro: `#636363`;
-  - Cinza claro: `#aeaeae`;
-
-### O layout
-
- Meu Layout.
-
+[link do projeto]()
 ![Versão final Desktop](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Meu%20layout/Desktop.png)
 ![Versão final Desktop: DarkMode](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Meu%20layout/Desktop%20darkmode.png)
-![Versão final Mobile](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Meu%20layout/Mobile.png)
-![Versão final Mobile: DarkMode](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Meu%20layout/Mobile%20darkmode.png)
 
-Layout final feito durante as aulas.
+## O projeto - Web olimpíadas
 
-![Versão final Desktop](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Desktop.png)
-![Versão final Desktop: DarkMode](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Desktop%20Darkmode.png)
-![Versão final Mobile](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Mobile.png)
-![Versão final Mobile: DarkMode](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Final%20aula/Mobile%20Darkmode.png)
+O objetivo dessa vez foi a criação de um quadro de medalhas usando HTML, CSS e javascript para comemorar as olimpíadas de Julho de 2021.
 
-[Desktop](./kenzie-academy_startnasuacarreira.png)
+### Tecnologias
 
-[Mobile](./kenzie-academy_startnasuacarreira-mobile.png)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Layout
+
+[link do projeto]()
+![Versão final Desktop](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Meu%20layout/Desktop.png)
+![Versão final Desktop: DarkMode](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/blob/main/Meu%20layout/Desktop%20darkmode.png)
