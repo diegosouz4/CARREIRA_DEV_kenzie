@@ -16,7 +16,7 @@ A duração do curso foi de 5 dias e nele tivemos conceitos básicos de HTML e C
 
 ## O projeto - Web olimpíadas
 
-O objetivo dessa vez foi a criação de um quadro de medalhas usando HTML, CSS e javascript para comemorar as olimpíadas de Julho de 2021 [link do projeto]().
+O objetivo dessa vez foi a criação de um quadro de medalhas usando HTML, CSS e javascript para comemorar as olimpíadas de Julho de 2021 [link do projeto](https://github.com/diegosouz4/CARREIRA_DEV_kenzie/tree/main/Semana%20Web%20-%20Olimp%C3%ADadas).
 
 ### Tecnologias
 
